@@ -2375,3 +2375,5 @@ var sanvvv = {
    */
   flip: func => (...args) => func(...args.reverse()),
 }
+
+module.exports = sanvvv
